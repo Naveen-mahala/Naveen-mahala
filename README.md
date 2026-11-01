@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Naveen  <br>🎓 Final year B.Tech CSE student | Data Science specialization  <br>💻 Learning Python, C++, DSA<br>📊 Exploring tools like NumPy, Pandas, Matplotlib, Tableau & Excel  <br>🚀 Building personal projects and startup ideas  <br>🌱 Always curious and eager to learn new tech  <br>📬 Let’s connect and collaborate!<br>
+👋 Hi, I’m Naveen  <br>🎓 B.Tech CSE graduate | Data Science specialization  <br>💻 Learning Python, C++, DSA<br>📊 Exploring tools like NumPy, Pandas, Matplotlib, Tableau & Excel  <br>🚀 Building personal projects and startup ideas  <br>🌱 Always curious and eager to learn new tech  <br>📬 Let’s connect and collaborate!<br>
 
 
 ## 🌐 Socials:
